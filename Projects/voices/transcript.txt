@@ -1,0 +1,660 @@
+WebVTT
+
+1
+00:00:00.000 --> 00:00:36.000
+David Boder: This is Spool 43 taken from Mr. Henry Sochami, 38 years old, tattoo number 109752 triangle, meaning Jewish, a tattoo of the camp of Auschwitz. He will speak Spanish, he can speak German but it's rather... slow, and we prefer to use the language he can speak most fluently.
+
+2
+00:00:36.162 --> 00:00:44.492
+David Boder: [In Spanish] Señor Sochami, eh... dígame dónde nació Ud. y de qué nacionalidad es Ud.
+
+3
+00:00:44.492 --> 00:00:46.665
+Henry Sochami: Es nacionalidad griega.
+
+4
+00:00:46.665 --> 00:00:47.510
+David Boder: ¿Sí?
+
+5
+00:00:47.510 --> 00:00:48.929
+Henry Sochamir: [Inintelegible]
+
+6
+00:00:48.929 --> 00:00:49.309
+David Boder: Sí.
+
+7
+00:00:49.309 --> 00:00.50.335
+Henry Sochamir:[Inintelegible]
+
+8
+00:00:50.335 --> 00:00:53.504
+David Boder: Sí, Ud. está de nacionalidad greca ¿y dónde nació Ud.?
+
+900:00:53.504  --> 00:00:54.682
+Henry Sochamir: De Salonic.
+
+00:00:54.682  --> 00:0055.485
+David Boder: Sí.
+
+00:0055.485 --> 00:00:57.676
+Henry Sochamir: Después, eh... nos deportaron el...
+
+00:00:57.676 --> 00:1:11.982
+David Boder: Ehh... entonces voy a hace... dee... pedirle que me diga Ud., ehh, dónde estuvo Ud., cuando llegaron los alemanes, ehh... en la ciudad de su residencia.
+
+00:1:11.982 --> 00:01:17.282
+Henry Sochamir: Antes de arribar los alemanes yo estuve en la Albania, en la grecha soldado.
+
+00:01:17.282 --> 00:01:23.759
+David Boder: ¿Si? Estaba Ud. en el... en el ejército greco y luchaba Ud. ¿contra quién?
+
+00:01:23.759 --> 00:01:25.347
+Henry Sochamir: Contraaa... la Italia.
+
+00:00:85.347 --> 00:01:30.224
+David Boder: Aja. Grecia see... reunió con Inglaterra en Estados Unidos. Sí.
+
+00:01:30.224 --> 00:01:31.311
+Henry Sochamir: En Estados Unidos, sí.
+
+00:01:31.311 --> 00:01:36.007
+David Boder: Y Ud. luchó contra... contra Italia. ¿Y entonces?
+
+00:01:36.007 --> 00:01:40.112
+Henry Sochamir: Entonces ehh... estuve, eh... en el combate ocho meses.
+
+00:01:40.112 --> 00:01:44.959
+David Boder: Sí. ¿En qué regi... en qué... clase de armas estuvo Ud.?
+
+00:01:44.959 --> 00:01:46.770
+Henry Sochamir: En la clase mil novescientos se...
+
+00:01:46.770 -->
+David Boder: No, no. Digo de qué armas, infantería o...
+
+109.384 -->
+Henry Sochamir: Se llama... se llama tagma télégraphiqué
+
+115.831 -->
+David Boder: Ohh! ¿Está... estuvo Ud.[inintelegible]?
+
+118.928 -->
+Henry Sochamir: Sí.
+
+119.278 -->
+David Boder: ¿Y conoce Ud. [inintelegible]?
+
+120.968 -->
+Henry Sochamir: No.
+
+121.451 -->
+David Boder: ¿No?
+
+121.904 -->
+Henry Sochamir: Estuve como clairon.
+
+123.944 -->
+David Boder: ¡Aja!
+
+124.880 -->
+Henry Sochamir: Trompeta.
+
+125.290 -->
+David Boder: Sí. Estuvo Ud. deee... deee... ehh... hombre trompeta en el dee... en un ehh... deta... detachamento de... télégraphic.
+
+136.186 -->
+Henry Sochamir: Télégraphic.
+
+136.566 -->
+David Boder: Bueno.
+
+137.592 -->
+Henry Sochamir: [Inintelegible]
+
+138.739 -->
+David Boder: ¿Es Ud. músico en general?
+
+140.478 -->
+Henry Sochamir: Sí.
+
+140.858 -->
+David Boder: Eh, ¿qué instrumento toca?
+
+143.001 -->
+Henry Sochamir: Clairon.
+
+144.057 -->
+David Boder: Así que toca el clairon, bueno.
+
+146.261 -->
+Henry Sochamir: Después ehh... cuando los alemanes... declararon la guerra a la Grecia.
+
+152.949 -->
+David Boder: Sí.
+
+153.704 -->
+Henry Sochamir: Yo iba me tocaba barreando con, en Albania, con los italianos.
+
+158.038 -->
+David Boder: Sí.
+
+159.275 -->
+Henry Sochamir: De allá cuando... ya ocuparon la ciudad mía, San Nícolo, los alemanes, después combatimos en Atenas en todos los lugares de la vieja Grecia. Después de ahí, fuimos obligados de rendernos... a los alemanes, y los alemanes nos escortaron como fuéramos en nuestras casas.
+
+180.716 -->
+David Boder: Sí.
+
+182.225 -->
+Henry Sochamir: >Yo fue en mi casa yo fai/sai mis tres criaturas.
+
+185.817 -->
+David Boder: ¿En qué ciudad?
+
+186.982 -->
+Henry Sochamir: En Salonic.
+
+187.845 -->
+David Boder: Salonic. ¿Y estuvo su esposa con Ud.?
+
+190.441 -->
+Henry Sochamir: Sí.
+
+190.851 -->
+David Boder: Su esposa y tres criaturas, ¿qué año?
+
+194.141 -->
+Henry Sochamir: Uno 13 años, Ziu Sochami; el segundo, 10 años, xxx Sochami; tres Dora Sochami, 3 años.
+
+204.644 -->
+David Boder: Sí.
+
+205.761 -->
+Henry Sochamir: Después cuando... vinieron los alemanes nos tomaron a todos los judios, nos llevaron en un campo...
+
+213.083 -->
+David Boder: Sí, [inintelegible]
+
+214.580 -->
+Henry Sochamir: No, no. Antes.
+
+216.530 -->
+David Boder: Sí.
+
+216.910 -->
+Henry Sochamir: Nos llevaron ehh... para laborar.
+
+219.415 -->
+David Boder: Sí.
+
+220.351 -->
+Henry Sochamir: De 17 años fina 45 años.
+
+224.413 -->
+David Boder: Sí.
+
+224.896 -->
+Henry Sochamir: Nos llevaron...
+
+225.802 -->
+David Boder: ¿Hombres y mujeres?
+
+227.178 -->
+Henry Sochamir: No, sólo hombres.
+
+228.295 -->
+David Boder: Sí.
+
+228.736 -->
+Henry Sochamir: Nos tomaron los nombres, y nos dieron unas affiches, y nos llamaban con plazas
+
+234.277 -->
+David Boder: Sí.
+
+234.639 -->
+Henry Sochamir: Compartidas.
+
+235.816 -->
+David Boder: Sí.
+
+236.299 -->
+Henry Sochamir: Para laborar en unos laboros.
+
+238.442 -->
+David Boder: Sí.
+
+239.227 -->>
+Henry Sochamir: Después de los laboros, nos llevaron en unas... ehh... líneas de treno, a... hacer la guardia.
+
+246.398 -->
+David Boder: Bueno.
+
+247.364 -->
+Henry Sochamir: Después de... la guardamos, ehh... a cerrarnos en gueto... a dormir.
+
+252.392 -->
+David Boder: ¿A dormir?
+
+253.599 -->
+Henry Sochamir: A dormir, en la stazione.
+
+255.350 -->
+David Boder: Si.
+
+255.610 -->
+Henry Sochamir: En Grecia.
+
+256.624 -->
+David Boder: Sí.
+
+256.956 -->
+Henry Sochamir: Nos cerraron en gueto, estuvimos ocho días en el gueto.
+
+260.789 -->
+David Boder: Sí.
+
+261.363 -->
+Henry Sochamir: Después de los ocho días... nos embarcaron tres mil quinientas personas...
+
+267.297 -->
+David Boder: ¿Hombres y mujeres?
+
+268.915 -->
+Henry Sochamir: Hombres y mujeres y criaturas.
+
+270.563 -->
+David Boder: Sí.
+
+271.275 -->
+Henry Sochamir: A los trenes cerrados.
+
+273.388 -->
+David Boder: Sí. Entonces dígame, ehh... ¿alguna vez trabajó Ud. solamente hombres y dónde estaba su esposa con las niñas?
+
+281.694 -->
+Henry Sochamir: Cuando partimos de... San Nico, partimos el 15 marzo, 1943.
+
+288.093 -->
+David Boder: ¿Quienes?
+
+289.318 -->
+Henry Sochamir: Con la familia que Ud., que... conocía.
+
+292.004 -->
+David Boder: Bueno.
+
+292.789 -->
+Henry Sochamir: Arrivemos en Auschwitz.
+
+294.962 -->
+David Boder: ¿En Auschwitz?
+
+296.006 -->
+Henry Sochamir: A la estación [initelegible] 21 de marzo.
+
+299.598 -->
+David Boder: Sí.
+
+300.854 -->
+Henry Sochamir: Ahí, vino una selección... ehh... oficiales...
+
+305.550 -->
+David Boder: Sí.
+
+306.003 -->
+Henry Sochamir: ... alemanes, partaron criaturas, mujeres y viejos, un lugar...
+
+310.910 -->
+David Boder: Sí.
+
+311.544 -->
+Henry Sochamir: Y... los que podían laborar de otra parte.
+
+314.502 -->
+David Boder: Sí.
+
+315.214 -->
+Henry Sochamir: Las criaturas y mujeres y los viejos los subieron en unos camiones, y los llevaron a... Berkenau.
+
+322.277 -->
+David Boder: Birkenau.
+
+322.796 -->
+Henry Sochamir: Birkenau.
+
+323.883 -->
+David Boder: Sí.
+
+324.505 -->
+Henry Sochamir: Ahí... los pasaron a la chambre à gaz, directamente, sin... quasi dificultad, a la mañana lendemain no existía ningunos.
+
+335.328 -->
+David Boder: ¿Y esto pasó a su familia?
+
+337.308 -->
+Henry Sochamir: Sí, yo, a mi familia también, si a mis criaturas, tres, criaturas y mi mujer.
+
+342.849 -->
+David Boder: Sí.
+
+343.453 -->
+Henry Sochamir: Después... a nosotros nos llevaron en Auschwitz, en Auschwitz nos empecharon noche entera, al baño.
+
+349.266 -->
+David Boder: Sí.
+
+349.797 -->
+Henry Sochamir: Nos lavaron, nos quitaron nuestras ropas y nos dieron unas ropas de bañar.
+
+353.811 -->
+David Boder: Sí.
+
+354.505 -->
+Henry Sochamir: De prisioneros. Y nos metieron en cuarentina, cuarenta días.
+
+359.002 -->
+David Boder: Y qué hacían en cuarentina?
+
+360.994 -->
+Henry Sochamir: La cuarentina a la mañana salíamos afuera, a hacer un poco de gymnastique...
+
+365.733 -->
+David Boder: Sí.
+
+366.807 -->
+Henry Sochamir: Y... más nada. Después de los cuarenta días vinieron unos oficiales, apartaron todos los que eran fuertes, labradores, los enviaron... afuera de Auschwitz, en otros campos.
+
+378.638 -->
+David Boder: Sí.
+
+379.091 -->
+Henry Sochamir: Y yo quedé en Auschwitz.
+
+380.570 -->
+David Boder: ¿Y qué hicieron con los que no pudieron trabajar?
+
+383.377 -->
+Henry Sochamir: Los que no podían trabajar los llevaban... eh... en un hospital, del hospital los enviaban... a... Birkenau, al crematoire.
+
+391.303 -->
+David Boder: Sí.
+
+391.834 -->
+Henry Sochamir: Los que no podían. Y los que podían laborar nos metieron... a... laborar en otros comandos que había ahí.
+
+398.263 -->
+David Boder: Sí.
+
+398.945 -->
+Henry Sochamir: De los comandos... nos apartábamos, batíamos, mataban de leña.
+
+404.106 -->
+David Boder: Sí.
+
+404.921 -->
+Henry Sochamir: Y... comer era un... poco de pan al día con un litro de agua.
+
+409.768 -->
+David Boder: ¿Y en qué comandos trabajó Ud.?
+
+411.971 -->
+Henry Sochamir: En el folgas
+
+413.843 -->
+David Boder: ¿Qué hacían allá?
+
+415.521 -->
+Henry Sochamir: Allá hacían la masonería.
+
+417.272 -->
+David Boder: ¿Qué?
+
+417.924 -->
+Henry Sochamir: Masones.
+
+418.516 -->
+David Boder: Aja, hacíannn... ehh... ¿piedras?
+
+421.009 -->
+enry Sochamir: Sí, piedras... con... había civiles que laboraban.
+
+424.860 -->
+David Boder: Sí.
+
+430.263 -->
+David Boder: There was a little interruption.
+
+435.985 -->
+Henry Sochamir: Un mes antes que vinieran los rusos nos evacuaron el campo, me llevaron a Wrislaolita/bieslaolit. De Wrislaolita/bieslaolit eran sólo cuarenta judios, el resto era todos cristianos.
+
+447.726 -->
+David Boder: Un poco más despacio señor.
+
+449.887 -->
+Henry Sochamir: Los cristianos nos batían enteramente, a los judios porque, no nos podían... hueler. Nos apartaban, nos batían, mismo nos llevaban el pan que tomabamos para comer. De ahí, antes que los rusos vinieran nos llevaron empujando, nos metieron en unos vagones encerrados tres días y tres noches sin comer y sin beber nada.
+
+475.608 -->
+David Boder: ¿Se recuerda en qué mes estuvo?
+
+477.962 -->
+Henry Sochamir: Ehh... mes de... Fevrier ‘45.
+
+483.033 -->
+David Boder: Febrero ’45, sí. Bueno, entonces ahora vamos bien.
+
+487.035 -->
+Henry Sochamir: Nos llevaron en Buchenwald, ahí había un techo de sesenta y cinco a setenta mil personas, de todas las nationalités, mismo francés, italianos, de todas las nationalités que existen en el mundo. Ahí nos... ehh... dejaron un poco de tiempo en un bloco y ahí apartaron todos los que eran fuertes que podían laborar los enviaban en todos los campos de... la Alemania para laborar. Yo siempre estuve escondiéndome, debajo de las camas debajo de todos los lugares por no partir a laborar.
+
+518.126 -->
+David Boder: ¡Oh! se podía... ¿se podía esconderse a veces? Sí.
+
+523.197 -->
+Henry Sochamir: A veces [inintelegible].
+
+524.241 -->
+David Boder: A veces lo fue posible. Habla más despacio, ¿sí?
+
+528.195 -->
+Henry Sochamir: De ahí, me tomaron me llevaron en un campo chico. Del campo chico, estuve en una barraca nos echábamos, mismo, mille doscientas a mille trescientas personas. Siete a ocho de ellas en un metro de lugar. Nos daban de comer a las diez de la mañana, un litro de agua, un pedacito de pan. Tres meses después los americanos se approchaban y en cada tarde a las tres nos llamaban todos los judíos que nos metiéramos para partir. Los cristianos dejaban a los judíos tomaba, yo escondía en todos los lugares mismo de dentro de los cristianos sin que me conocieran que yo era judío.
+
+572.930 -->
+David Boder: Estee... ¿llevaron ustedes alguna distinción que fueran judios?
+
+578.001 -->
+Henry Sochamir: En Auschwitz teníamos una distinción que éramos judíos, mientras que en Buchenwald no teníamos nada.
+
+583.784 -->
+David Boder: Aja, bueno.
+
+584.677 -->>
+Henry Sochamir: Éramos todos egales.
+
+585.673 -->
+David Boder: Sí.
+
+586.699 -->
+Henry Sochamir: De allá... los judíos que partían transbordo los mataban, más longe en los caminos, con mitrailleuses. Y yo me pude esconder tres días debajo de la tierra, en una barraca que había fonda, yo con muchos cristianos rusos, que no me conocían que yo era judío.
+
+609.831 -->
+David Boder: Que no conocían.
+
+610.875 -->
+Henry Sochamir: No me conocían que si era judío, y yo les decía siempre que era greco cristiano.
+
+615.704 -->
+David Boder: Greco cristiano, bueno.
+
+617.757 -->
+Henry Sochamir: De ahí, vinieron los americanos dos días antes que se fueran los alemanes vinieron los americanos verso las cuatro de la tarde al mes de abril, 11; el 11 de abril ‘45.
+
+634.526 -->
+David Boder: Bueno.
+
+635.268 -->
+Henry Sochamir: Cuando ví de que los rusos estaban saliendo, antes estábamos escondidos, yo no quise salir porque me espantaba.
+
+641.456 -->
+David Boder: Bueno.
+
+642.229 -->
+Henry Sochamir: Cuando ví de todos que se besaban y se abrazaban afuera, metí me cabeza y ví de que todos están bailando que habían los americanos venir, y yo entonces salí, pesaba 38 kilos, de la hambrera, de todo lo que tenía me estaba cayendo, malheureusement mismo me caía el vaso, me metía a cantar y a bailar.
+
+665.969 -->
+David Boder: Sí.
+
+667.200 -->
+Henry Sochamir: Después que los americanos vinieron nos empezaron a dar a comer bueno, y a beber, estuve dos meses con los americanos.
+
+674.866 -->
+David Boder: ¿Dónde?
+
+675.681 -->
+enry Sochamir: En Buchenwald.
+
+677.009 -->
+David Boder: Buchenwald, sí.
+
+678.790 -->
+Henry Sochamir: Después de dos meses, nos enviaron en Paris por partir en Grecia.
+
+683.184 -->
+David Boder: Sí.
+
+683.999 -->
+Henry Sochamir: Con avión.
+
+685.418 -->
+David Boder: Sí.
+
+687.006 -->
+Henry Sochamir: [Ininteligible]
+
+687.899 -->
+David Boder: ¿Cuánta gente se estuvo en un avión?
+
+689.710 -->
+Henry Sochamir: 53 gregos solos.
+
+692.185 -->
+David Boder: Sí.
+
+693.060 -->
+Henry Sochamir: Y 10 de salonico.
+
+694.388 -->
+David Boder: Sí.
+
+695.294 -->
+Henry Sochamir: Nos vinieron aquí en Paris, el resto partieron para Grecia, y yo como serví a la Légion Étrangère Francesa a 1920 y ‘25, al Maroco.
+
+707.626 -->
+David Boder: Oh! Sí.
+
+709.063 -->
+Henry Sochamir: Y tuve, la posibilidad de quedar aquí en Francia.
+
+713.367 -->
+David Boder: Aja.
+
+714.683 -->
+Henry Sochamir: Y por eso ahora, no estuve un año asina, fina cuando yo vine aquí porque estaba muy flaco.
+
+723.242 -->
+David Boder: Sí.
+
+723.725 -->
+Henry Sochamir: Y empecé a laborar ahora.
+
+726.351 -->
+David Boder: ¿Y para quién trabaja Ud. ahora?
+
+728.977 -->
+Henry Sochamir: Para la jorno américain.
+
+730.504 -->
+David Boder: Para el jorno américain. ¿Y... qué piensa Ud. hacer en el futuro?
+
+736.239 -->
+Henry Sochamir: No... más tarde no sé porque ahora laboro aquí, y en cuanto pueda trovare un otro trabajo que puedo ganarme más mejor la vida.
+
+746.941 -->
+David Boder: Aja. ¿Pero piensa Ud. de quedarse en Francia?
+
+750.140 -->
+Henry Sochamir: Sí.
+
+750.774 -->
+David Boder: Y...
+
+751.167 -->
+Henry Sochamir: Más tarde puede ser que me voy en Palestina, más tarde.
+
+754.746 -->
+David Boder: Aja.
+
+755.350 -->
+Henry Sochamir: Y... cuando la... situación se arregla.
+
+758.519 -->
+David Boder: Aja. ¿Pero... y qué hace Ud. aquí para el journal? ¿qué está trabajando aquí?
+
+763.590 -->
+Henry Sochamir: Laboro aquí en los [ininteligible] que vienen las cajas pesadas, las llevo si tiene taches, trabo enveloppes... eh...
+
+771.817 -->
+David Boder: Sí, trabajo de mano.
+
+773.719 -->
+Henry Sochamir: Trabajo de mano.
+
+774.854 -->
+David Boder: Y... ¿No tiene familia aquí?
+
+778.252 -->
+Henry Sochamir: Malheureusement, 27 miembros contaba la familia entera, 3 hermanos, una hermana, con las familias todas se fueron al crematoire, y quedo yo solo de toda mi familia.
+
+793.554 -->
+David Boder: Aja.
+
+793.886 -->
+Henry Sochamir: De 27 quedo solo en el mundo.
+
+796.240 -->
+David Boder: ¿Y... no procuraba Ud. de escribir a Grecia?
+
+800.827 -->
+Henry Sochamir: Sí, yo escribí en Grecia sólo que lo que [ininteligible] que me dijeron que el hijo grande de de mi hermano se trova vivo.
+
+809.127 -->
+David Boder: ¿Cómo?
+
+809.688 -->
+Henry Sochamir: Se trova vivo, el hijo grande de... de mi hermano, el grande.
+
+814.578 -->
+David Boder: Esta vivo.
+
+815.743 -->
+Henry Sochamir: Sí.
+
+816.365 -->
+David Boder: Aja.
+
+816.655 -->
+Henry Sochamir: Y una hijita de mi hermana, la grande, dicen que... la vieron viva las otras niñas, ma que partió con los belgicanos, ma no sé adónde se trova, si vive, o muere, no sé, en qué lugar se trova no sé... me dijeron que se fue en Bélgica.
+
+833.786 -->
+David Boder: ¡Oh! Se fue en Bélgica pero no sabe Ud.
+
+835.977 -->
+Henry Sochamir: Si, no pudo saber adónde [ininteligible]
+
+838.965 -->
+David Boder: Pues, monsieur... señor... Sochami, esto estuvo muy interesante, muy importante lo que tuvo Ud. decir, muchísimas gracias.
+
+848.683 -->
+David Boder: [In English] That ends the report of Henry Sochami. Taking about... taking about twelve minutes of Spool number 43. We will leave the rest for another interviewee. Muchas gracias.
+
+870.213 -->
+David Boder: Chicago, November the 21st, 1950. This concludes Spool 9-43A of Henry Sochami, it is a spool in Spanish. The next Spool 9-43B is by a Mr. Mizrahi and seems to be in English. Boder.
