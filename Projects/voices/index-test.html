@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>WebVTT and Audio Example</title>
+  <meta charset ="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
+  <link rel="stylesheet" href="screen.css"/>
+</head>
+<body>
+  <header>
+    <h1>Voices of the Holocaust</h1>
+  </header>
+  <figure>
+    <video id="video" controls preload="metadata">
+      <source type="audio/mp3" src="sochamiH_9-43A_SLP.mp3">
+      <track label="Spanish" kind="subtitles" srclang="es" src="transcript.vtt">
+      <track label="English" kind="subtitles" srclang="en" src="translation.vtt" default>
+    </video>
+    <figcaption>figcaption here</figcaption>
+  </figure>
+</body>
+</html>

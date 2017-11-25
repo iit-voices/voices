@@ -42,11 +42,47 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
 
 /* End Reset CSS */
 /* Begin Site Styles */
 /* Using modular scale http://www.modularscale.com/?18&px&1.667 */
+html {
+  font-size: 1.125em; /* 18 /16 = 1.25 */
+	line-height: 1.22222em; /* 22 / 19 = 1.222... aka 122% */
+  text-rendering: optimizeLegibility;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+	padding-top: 2.44444em; /* 44/ 18 = 2.44444 */
+	padding-right: 1.22222em;
+	padding-left: 1.22222em;
+	font-family: 'Cardo', 'Bookman Oldstyle', serif;
+	background-color: #EBEAEA; /* Light Gray */
+}
+body {
+	line-height: 1.22222em; /* 22 / 19 = 1.222... aka 122% */
+	padding-top: 3.666em; /* 66 / 18 = 3.666 */
+  padding-right: 1.222em; /* 22 / 18 = 1.222 */
+  padding-left: 1.222em; /* 22 / 18 = 1.222 */
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+header {
+	margin-bottom: 20px;
+		}
+
+figure {
+	margin: 0
+		}
+
+video {
+	border: 1px solid #aaa;
+	object-fit: initial;
+		}
+
+::cue {
+	font-size: 20px;
+		}
