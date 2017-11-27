@@ -57,7 +57,6 @@ html {
 	padding-top: 2.44444em; /* 44/ 18 = 2.44444 */
 	padding-right: 1.22222em;
 	padding-left: 1.22222em;
-	font-family: 'Cardo', 'Bookman Oldstyle', serif;
 	background-color: #EBEAEA; /* Light Gray */
 }
 body {
@@ -83,6 +82,7 @@ video {
 	object-fit: initial;
 		}
 
-::cue {
-	font-size: 20px;
+video::-webkit-media-text-track-display {
+		    -webkit-transform: translateY(-3em);
+		    transform: translateY(-3em);
 		}
