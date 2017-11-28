@@ -81,8 +81,3 @@ video {
 	border: 1px solid #aaa;
 	object-fit: initial;
 		}
-
-video::-webkit-media-text-track-display {
-		    -webkit-transform: translateY(-3em);
-		    transform: translateY(-3em);
-		}
