@@ -74,10 +74,24 @@ header {
 		}
 
 figure {
-	margin: 0
-		}
+	max-width:64rem;
+	width:100%;
+	max-height:30.875rem;
+	height:100%;
+	margin:1.25rem auto;
+	padding:1.051%;
+}
 
-video {
-	border: 1px solid #aaa;
-	object-fit: initial;
+#primary {
+	width: 45%;
+	float: left;
+	margin-right: 2.0348837%;
+}
+#supporting {
+	width: 45%;
+	margin-left: 2.0348837%;
+	float: right;
+}
+::cue {
+	font-size: .7em /* 1.125em; 18 /16 = 1.25 */
 		}
