@@ -94,5 +94,8 @@ video {
    object-fit: initial;
 }
 video::cue {
-  font-size: 20px;
+  font-size: 15px;
+  background: none;
+  color: black;
+  font-family: georgia;
   }
