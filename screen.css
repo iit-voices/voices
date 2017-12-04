@@ -94,5 +94,5 @@ video {
    object-fit: initial;
 }
 video::cue {
-  font-size: .7em
+  font-size: 20px
   }
