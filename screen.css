@@ -79,19 +79,11 @@ figure {
   margin:1.25rem auto;
   padding:1.051%;
 }
-#primary {
-  width: 55%;
-  float: left;
-  margin-right: 2.0348837%;
-}
-#supporting {
-  width: 35%;
-  margin-left: 2.0348837%;
-  float: right;
-}
+
 video {
-   border: 1px solid #aaa;
-   object-fit: initial;
+  width: 80%    !important;
+  border: 1px solid #aaa;
+  object-fit: initial;
 }
 
   video::cue {
@@ -99,7 +91,6 @@ video {
   background: none;
   color: black;
   font-family: georgia;
-  position:10%;
   }
 
   video::cue(v[voice="Boder"]) {
