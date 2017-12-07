@@ -93,7 +93,7 @@ video {
   object-fit: initial;
 }
 
-video::cue {
+/*video::cue {
   font-size: 15px;
   background: none;
   color: black;
