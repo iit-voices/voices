@@ -93,9 +93,14 @@ video {
    border: 1px solid #aaa;
    object-fit: initial;
 }
-video::cue {
+
+  video::cue {
   font-size: 15px;
   background: none;
   color: black;
   font-family: georgia;
+  position:10%;
   }
+
+  video::cue(v[voice="Boder"]) {
+    color:red;
