@@ -46,6 +46,7 @@ q:before, q:after {
 /* End Reset CSS */
 /* Begin Site Styles */
 /* Using modular scale http://www.modularscale.com/?18&px&1.667 */
+/* Base */
 html {
   font-size: 1.125em; /* 18 /16 = 1.25 */
   line-height: 1.22222em; /* 22 / 19 = 1.222... aka 122% */
@@ -74,6 +75,7 @@ h1 {
 	line-height: 1.0318em; /* 33px / 31.984 = 1.0318em */
   font-family: 'Special Elite', cursive;
 }
+/* Layout */
 header {
   margin-bottom: 20px;
   }
@@ -85,7 +87,7 @@ figure {
   margin:1.25rem auto;
   padding:1.051%;
 }
-
+/* State */
 video {
   width: 80%    !important;
   /*height: auto   !important;*/
